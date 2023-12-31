@@ -2,3 +2,4 @@ _site
 .DS_Store
 .nova
 .tool-versions
+node_modules/
